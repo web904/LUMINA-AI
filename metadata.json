@@ -1,0 +1,8 @@
+{
+  "name": "Lumina AI Blog",
+  "description": "A futuristic AI-powered blog platform where users can generate high-quality articles, create stunning AI covers, and interact with content in real-time.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
